@@ -1,16 +1,16 @@
 apiVersion: v1
 kind: Plugin
 metadata:
-  author: sheetung
-  name: DailyHoroscope
-  repository: 'https://github.com/sheetung/DailyHoroscope'
-  version: 0.1.5
+  author: sheetung/TyperBody
+  name: Atri_DailyHoroscope
+  repository: 'https://github.com/TyperBody/Atri_DailyHoroscope'
+  version: 1.0.0
   description:
     en_US: Daily Horoscope for LangBot
-    zh_Hans: '赛博 每日运势'
+    zh_Hans: 'atri 每日运势'
   label:
-    en_US: DailyHoroscope
-    zh_Hans: '每日运势插件'
+    en_US: Atri DailyHoroscope
+    zh_Hans: 'atri 每日运势插件'
   icon: assets/logo.png
 spec:
   config: 
